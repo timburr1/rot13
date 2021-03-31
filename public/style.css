@@ -1,0 +1,21 @@
+body {
+	margin: 30px;
+	font-size: 1.2em;
+	text-align: center;
+	background-color: silver;
+}
+
+nav ul li {
+	display: inline;
+    margin-right: 10px;
+}
+
+a {
+	color: maroon;
+	font-weight: bold;
+}
+
+hr {
+	border-top: 3px solid maroon;
+	border-bottom: none;
+}
