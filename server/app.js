@@ -20,14 +20,8 @@ app.get('/', (req, res) => {
 // str.charCodeAt(0) -> Unicode value
 // String.fromCharCode() -> back to a char
 function rotate(s) {
-
-    if(s === " ") {
-        return s;
-    }
-    // 'a' = 97
-    var unicode = s.charCodeAt(0);
-    var newLetter = ((unicode - 97) + 13) % 26;
-    return String.fromCharCode(newLetter + 97);
+//TODO:
+    return s;
 }
 
 app.get('/encrypt', (request, response)  => {
