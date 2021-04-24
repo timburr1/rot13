@@ -1,15 +1,12 @@
 {
-  "name": "yelpforanything",
+  "name": "rot13",
   "version": "1.0.0",
   "description": "Simple web site for Database Design & Programming students",
   "main": "app.js",
   "dependencies": {
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
-    "express": "^4.17.1",
-    "mysql": "^2.18.1",
-    "sequelize": "^6.3.5",
-    "sqlite3": "^5.0.0"
+    "express": "^4.17.1"
   },
   "devDependencies": {},
   "scripts": {
@@ -18,16 +15,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/timburr1/yelpForAnything.git"
+    "url": "git+https://github.com/timburr1/rot13.git"
   },
   "keywords": [
-    "MySQL",
     "Node.js"
   ],
   "author": "Tim Burr",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/timburr1/yelpForAnything/issues"
+    "url": "https://github.com/timburr1/rot13/issues"
   },
-  "homepage": "https://github.com/timburr1/yelpForAnything#readme"
+  "homepage": "https://github.com/timburr1/rot13#readme"
 }
