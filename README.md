@@ -16,3 +16,4 @@ Start the web server with
 ```
 $ node app.js
 ```
+Open a web browser, and navigate to localhost:3000
