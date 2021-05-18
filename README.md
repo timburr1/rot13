@@ -5,7 +5,11 @@
 <br>Simple Caesar Cipher
 
 ## Prerequisites
-* [**Node.js**](https://nodejs.org/)
+* [**Node.js**](https://nodejs.org/) - In Mint Linux, open a command prompt and run:
+```
+$ sudo apt-get install nodejs
+```
+
 
 ## Run the server:
 Open the project folder in VSCode, then launch a new terminal. Cd into project root, then install dependencies with 
