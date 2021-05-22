@@ -12,7 +12,7 @@ $ sudo apt-get install nodejs
 
 
 ## Run the server:
-Open the project folder in VSCode, then launch a new terminal. Cd into project root, then install dependencies with 
+Open the project folder in VSCode, then launch a new terminal. Cd into the server directory, then install dependencies with 
 ```
 $ npm install
 ```
